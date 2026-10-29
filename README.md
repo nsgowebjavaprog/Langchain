@@ -2,7 +2,7 @@
 Langchain for AI Agents For Data Engineers 2026
 
 ------
-![alt text](<Screenshot 2026-10-29 170024.png>)
+![alt text](<imgs_for_notes\img-1.png>)
 ------
 
 
@@ -15,6 +15,7 @@ Langchain for AI Agents For Data Engineers 2026
 4. Environment Setup
 5. Openai APIs
 ####
+
 ------
 
 ------
