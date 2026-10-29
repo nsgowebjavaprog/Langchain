@@ -2,7 +2,7 @@
 Langchain for AI Agents For Data Engineers 2026
 
 ------
-![alt text](<imgs_for_notes\img-1.png>)
+![alt text](<imgs_for_notes/img-1.png>)
 ------
 
 
